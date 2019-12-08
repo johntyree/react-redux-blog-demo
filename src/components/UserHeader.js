@@ -12,9 +12,11 @@ class UserHeader extends React.Component {
   render () {
     const { user } = this.props;
     if (!user) {
-      return null;
+      return (
+            <div className="ui active inline tiny centered loader"></div>
+      );
     }
-    return <div className="header">{user.name}</div>;
+    return <div className="ui header"><h2>{user.name}</h2></div>;
   }
 
 }
