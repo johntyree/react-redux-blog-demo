@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.c2a46b36.chunk.js",
-    "main.js.map": "/static/js/main.c2a46b36.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.60258d3a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.60258d3a.js.map",
-    "static/js/2.60c67c0c.chunk.js": "/static/js/2.60c67c0c.chunk.js",
-    "static/js/2.60c67c0c.chunk.js.map": "/static/js/2.60c67c0c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.9cc16f4acb5e6fa1c0b88f9b92ff94a7.js": "/precache-manifest.9cc16f4acb5e6fa1c0b88f9b92ff94a7.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/react-redux-blog-demo/static/js/main.c2a46b36.chunk.js",
+    "main.js.map": "/react-redux-blog-demo/static/js/main.c2a46b36.chunk.js.map",
+    "runtime-main.js": "/react-redux-blog-demo/static/js/runtime-main.a3cb6568.js",
+    "runtime-main.js.map": "/react-redux-blog-demo/static/js/runtime-main.a3cb6568.js.map",
+    "static/js/2.60c67c0c.chunk.js": "/react-redux-blog-demo/static/js/2.60c67c0c.chunk.js",
+    "static/js/2.60c67c0c.chunk.js.map": "/react-redux-blog-demo/static/js/2.60c67c0c.chunk.js.map",
+    "index.html": "/react-redux-blog-demo/index.html",
+    "precache-manifest.a6a420fd2a93e6ec4b409297fd22b5fc.js": "/react-redux-blog-demo/precache-manifest.a6a420fd2a93e6ec4b409297fd22b5fc.js",
+    "service-worker.js": "/react-redux-blog-demo/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.60258d3a.js",
+    "static/js/runtime-main.a3cb6568.js",
     "static/js/2.60c67c0c.chunk.js",
     "static/js/main.c2a46b36.chunk.js"
   ]
